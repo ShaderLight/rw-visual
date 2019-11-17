@@ -21,7 +21,7 @@ while True:
     
     plt.show()
     
-    keep_running = input("Kolejne błądzenie losowe? (t/n):")
+    keep_running = input("Next random walk? (y/n):")
     if keep_running == 'n':
         break
 
